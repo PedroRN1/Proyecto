@@ -1,0 +1,26 @@
+
+html {
+  height: 100%;
+}
+footer {
+  background-color: #aeb7b3ff;
+  color: rgb(0, 0, 0);
+  position: absolute;
+  left:0;
+  right:0;
+  bottom: 0;
+}
+.footer__acercade {
+  display: inline-block;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-family: Arial, Helvetica, sans-serif;
+  vertical-align: middle;
+  background-color: rgb(171, 171, s171);
+  color: black;
+}
+.footer__acercade:hover {
+  background-color: darkred;
+  color: white;
+}

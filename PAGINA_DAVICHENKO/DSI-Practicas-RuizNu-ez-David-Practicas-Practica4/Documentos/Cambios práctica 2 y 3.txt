@@ -1,0 +1,24 @@
+Entrega 2
+Barra de navegación
+Cambio de la tipografía del texto
+Acerca de
+Cambio de logo
+Footer
+Tarjetas en el inicio
+
+Cambio del inicio a otra nueva pestaña
+Entrega 3 
+Añadir que la barra de navegación se mantenga fija
+Añadir carrusel de fotos
+Agregar un footer
+Cambiar el ancho del div del formulario y moverlo derecha y añadir mapa
+Cambio del formato de los textos
+
+
+
+Colores
+--dark-red: #8b0000ff;
+--gunmetal: #333745ff;
+--ochre: #cb793aff;
+--jasmine: #fadf7fff;
+--ash-gray: #aeb7b3ff;

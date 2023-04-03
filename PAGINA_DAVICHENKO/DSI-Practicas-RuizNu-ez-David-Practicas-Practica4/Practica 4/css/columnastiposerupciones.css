@@ -1,0 +1,124 @@
+/* Columnas para tiposerupcioness */
+
+/* Erupcion Estromboliana */
+.columnas__columna__Foto1__tier {
+    padding-left: 20px;
+    text-align: justify;
+    grid-column: 1;
+    grid-row: 2;
+  
+  }
+  /* Erupcion Peleana */
+  .columnas__columna__Foto2__tier {
+    padding-left: 20px;
+    text-align: justify;
+    grid-column: 2;
+    grid-row: 2;
+  
+  }
+  /* Erupcion Sursteyana */
+  .columnas__columna__Foto3__tier {
+    padding-left: 20px;
+    text-align: justify;
+    grid-column: 1;
+    grid-row: 4;
+  
+  }
+  /* Erupcion Volcánica */
+  .columnas__columna__texto1__tier {
+    padding-left: 20px;
+    text-align: justify;
+    grid-column: 2;
+    grid-row: 4;
+  }
+  /* Erupcion Hawaiana */
+  .columnas__columna__texto2__tier {
+    padding-left: 20px;
+    text-align: justify;
+    grid-column: 1;
+    grid-row: 1;
+  }
+  /* Erupcion Vulcaniana */
+  .columnas__columna__texto3__tier {
+    padding-left: 20px;
+    text-align: justify;
+    grid-column: 2;
+    grid-row: 1;
+  }
+  /* Erupcion Pliniana */
+  .columnas__columna__texto4__tier {
+    padding-left: 20px;
+    text-align: justify;
+    grid-column: 2;
+    grid-row: 3;
+  }
+  /* Erupcion Submarina */
+  .columnas__columna__texto5__tier {
+    padding-left: 20px;
+    text-align: justify;
+    grid-column: 1;
+    grid-row: 3;
+  }
+  @media (max-width: 391px) {
+    /* Columnas para tiposerupcioness */
+
+/* Erupcion Estromboliana */
+.columnas__columna__Foto1__tier {
+    padding-left: 20px;
+    text-align: justify;
+    grid-column: 1;
+    grid-row: 1;
+  
+  }
+  /* Erupcion Peleana */
+  .columnas__columna__Foto2__tier {
+    padding-left: 20px;
+    text-align: justify;
+    grid-column: 1;
+    grid-row: 2;
+  
+  }
+  /* Erupcion Sursteyana */
+  .columnas__columna__Foto3__tier {
+    padding-left: 20px;
+    text-align: justify;
+    grid-column: 1;
+    grid-row: 3;
+  
+  }
+  /* Erupcion Volcánica */
+  .columnas__columna__texto1__tier {
+    padding-left: 20px;
+    text-align: justify;
+    grid-column: 1;
+    grid-row: 4;
+  }
+  /* Erupcion Hawaiana */
+  .columnas__columna__texto2__tier {
+    padding-left: 20px;
+    text-align: justify;
+    grid-column: 1;
+    grid-row: 5;
+  }
+  /* Erupcion Vulcaniana */
+  .columnas__columna__texto3__tier {
+    padding-left: 20px;
+    text-align: justify;
+    grid-column: 1;
+    grid-row: 6;
+  }
+  /* Erupcion Pliniana */
+  .columnas__columna__texto4__tier {
+    padding-left: 20px;
+    text-align: justify;
+    grid-column: 1;
+    grid-row: 7;
+  }
+  /* Erupcion Submarina */
+  .columnas__columna__texto5__tier {
+    padding-left: 20px;
+    text-align: justify;
+    grid-column: 1;
+    grid-row: 8;
+  }
+   }

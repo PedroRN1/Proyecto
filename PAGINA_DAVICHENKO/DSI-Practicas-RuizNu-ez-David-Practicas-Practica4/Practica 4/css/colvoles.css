@@ -1,0 +1,40 @@
+/* Columnas para volcanesespacio */
+.columnas__texto1__voes {
+    padding-left: 20px;
+    text-align: justify;
+    grid-column: 1/3;
+    grid-row: 1;
+  }
+  .columnas__Foto1__voes {
+    padding-left: 20px;
+    text-align: justify;
+    grid-column: 1;
+    grid-row: 2;
+  }
+  .columnas__Foto2__voes {
+    padding-left: 20px;
+    text-align: justify;
+    grid-column: 2;
+    grid-row: 2;
+  }
+
+  @media (max-width: 391px) {
+    .columnas__texto1__voes {
+        padding-left: 20px;
+        text-align: justify;
+        grid-column: 1;
+        grid-row: 1;
+      }
+      .columnas__Foto1__voes {
+        padding-left: 20px;
+        text-align: justify;
+        grid-column: 1;
+        grid-row: 2;
+      }
+      .columnas__Foto2__voes {
+        padding-left: 20px;
+        text-align: justify;
+        grid-column: 1;
+        grid-row: 3;
+      }  
+}
